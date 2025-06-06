@@ -2,47 +2,40 @@
 
 ### ÍNDICE DE CONTEÚDO
 
-[Teste](#ponto-1)
-
-[Ir para a seção de introdução](#introdução-sobre-a-linguagem-c)
-
-
-- Introdução sobre a linguagem C <br>
-- Variáveis <br>
--  Os Melhores Treinamentos sobre Sistemas embarcados e IoT <br>
-- Tipos de dados <br>
-- Operadores <br>
-  - Operadores aritméticos <br>
-  -  Operadores relacionais <br>
-  - peradores lógicos <br>
-  - Operadores bit-a-bit <br>
-  - Operadores especiais <br>
-    - sizeof() <br>
-    - Endereço (&) e ponteiro(*) <br>
-    - Operador Ternário  <br>
-- Estruturas de controle de fluxo  <br>
-  - if, if-else <br>
-  - switch <br>
-  - for <br>
-  - while <br>
-  - do-while <br>
-- Funções  <br>
-- Vetores e matrizes  <br>
-- Ponteiros  <br>
-- Structs <br>
-- Strings <br>
-- Constantes <br>
-- Modificadores de tipo <br>
-- Modificadores de Armazenamento <br>
-- Diretivas de pré-compilação  <br>
-- Compilador GCC <br>
-  - Compilando um código em linguagem C com o GCC <br>
-- Criando bibliotecas em linguagem C <br>
-- Baixe o e-book Domine a Linguagem C <br>
-- Saiba Mais sobre a linguagem C <br>
+- [Introdução sobre a linguagem C](#introdução-sobre-a-linguagem-c)
+- [Variáveis](#variáveis)
+- [Tipos de dados](#variáveis)
+- [Operadores](#operadores)
+  - [Operadores aritméticos](#operadores-aritméticos)
+  -  [Operadores relacionais](#operadores-relacionais)
+  - [peradores lógicos](#operadores-lógicos)
+  - [Operadores bit-a-bit]()
+  - [Operadores especiais]()
+    - [sizeof()]()
+    - [Endereço (&) e ponteiro(*)]()
+    - [Operador Ternário]()
+- [Estruturas de controle de fluxo]()
+  - [if, if-else]()
+  - [switch]()
+  - [for]()
+  - [while]()
+  - [do-while]()
+- [Funções]()
+- [Vetores e matrizes]()
+- [Ponteiros]()
+- [Structs]()
+- [Strings]()
+- [Constantes]()
+- [Modificadores de tipo]()
+- [Modificadores de Armazenamento]()
+- [Diretivas de pré-compilação]()
+- [Compilador GCC]()
+  - [Compilando um código em linguagem C com o GCC]()
+- [Criando bibliotecas em linguagem C]()
+- [Baixe o e-book Domine a Linguagem C]()
+- [Saiba Mais sobre a linguagem C]()
 
 <br><br>
-<a name="ponto-1"></a>
 
 # Introdução sobre a linguagem C
 A linguagem C é uma linguagem de programação de alto nível que foi criada nos anos 1970 para desenvolvimento de sistemas operacionais. Ela é amplamente utilizada em sistemas embarcados.
@@ -115,7 +108,7 @@ O resultado da execução deste programa:
 # Operadores 
 Os operadores são símbolos especiais utilizados para realizar operações matemáticas e lógicas. 
 
-## -  Operadores aritméticos
+## Operadores aritméticos
 Os operadores aritméticos são usados para realizar operações matemáticas básicas em C, como adição, subtração, multiplicação e divisão. 
 
 | Operador | Operação |
@@ -165,7 +158,7 @@ Resultado:
 
 <br>
 
-# Operadores relacionais
+## Operadores relacionais
 Os operadores relacionais são usados para comparar dois valores em C e produzir um valor lógico (verdadeiro(1) ou falso(0)) como resultado.
 
 | Operador |	Operação |
@@ -212,7 +205,7 @@ Resultado:
 
 <br><br>
 
-# Operadores lógicos
+## Operadores lógicos
 
 Os operadores lógicos são usados para combinar expressões booleanas em C e produzir um valor lógico (verdadeiro ou falso) como resultado. 
 
@@ -253,7 +246,7 @@ Resultado:
 
 <br><br>
 
-# Operadores bit-a-bit
+## Operadores bit-a-bit
 Os operadores bit-a-bit são usados para realizar operações bit-a-bit em C. Eles são úteis quando você precisa trabalhar com números binários diretamente. 
 
 | Operador |	Operação |
@@ -302,9 +295,9 @@ Resultado:
 
 <br><br>
 
-# Operadores especiais
+## Operadores especiais
 
-## sizeof()
+### sizeof()
 
 O operador sizeof() é usado para descobrir o tamanho, em bytes, de uma variável ou tipo de dados em C. Ele é útil para determinar o espaço de armazenamento necessário para uma determinada variável ou estrutura. 
 
