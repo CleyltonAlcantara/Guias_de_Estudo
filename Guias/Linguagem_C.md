@@ -4,11 +4,11 @@
 
 - [Introdução sobre a linguagem C](#introdução-sobre-a-linguagem-c)
 - [Variáveis](#variáveis)
-- [Tipos de dados](#variáveis)
+- [Tipos de dados](#tipos-de-dados)
 - [Operadores](#operadores)
   - [Operadores aritméticos](#operadores-aritméticos)
   -  [Operadores relacionais](#operadores-relacionais)
-  - [peradores lógicos](#operadores-lógicos)
+  - [Operadores lógicos](#operadores-lógicos)
   - [Operadores bit-a-bit](#operadores-bit-a-bit)
   - [Operadores especiais](#operadores-especiais)
     - [sizeof()](#sizeof)
