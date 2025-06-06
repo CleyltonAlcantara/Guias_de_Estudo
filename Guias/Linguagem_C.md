@@ -1,6 +1,6 @@
 # Linguagem C - Guia Completo
 
-### ÍNDICE DE CONTEÚDO
+### ÍNDICE
 
 - [Introdução sobre a linguagem C](#introdução-sobre-a-linguagem-c)
 - [Variáveis](#variáveis)
@@ -9,7 +9,7 @@
   - [Operadores aritméticos](#operadores-aritméticos)
   -  [Operadores relacionais](#operadores-relacionais)
   - [peradores lógicos](#operadores-lógicos)
-  - [Operadores bit-a-bit]()
+  - [Operadores bit-a-bit](#operadores-bit-a-bit)
   - [Operadores especiais]()
     - [sizeof()]()
     - [Endereço (&) e ponteiro(*)]()
