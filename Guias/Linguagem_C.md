@@ -4,6 +4,8 @@
 
 [Teste](#ponto-1)
 
+[Ir para a seção de introdução](#introdução-sobre-a-linguagem-c)
+
 
 - Introdução sobre a linguagem C <br>
 - Variáveis <br>
