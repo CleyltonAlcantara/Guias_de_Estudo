@@ -31,7 +31,7 @@
 - [Diretivas de pré-compilação](#diretivas-de-pré-compilação)
 - [Compilador GCC](#compilador-gcc)
   - [Compilando um código em linguagem C com o GCC](#compilando-um-código-em-linguagem-c-com-o-gcc)
-- [Criando bibliotecas em linguagem C](#criando-bibliotecas-em-linuagem-c)
+- [Criando bibliotecas em linguagem C](#criando-bibliotecas-em-linguagem-c)
 
 <br><br>
 
