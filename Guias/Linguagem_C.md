@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f0952e7a-27b8-4926-a837-a8a65f7d5a93)
+
 # Linguagem C - Guia Completo
 
 ### ÍNDICE
