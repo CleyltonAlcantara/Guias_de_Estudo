@@ -534,9 +534,7 @@ Neste exemplo, a variável “i” é inicializada com o valor 0, a condição �
 
 <br><br>
 
-## 
-
-while
+## while
 A instrução “while” é uma estrutura de controle de fluxo que permite que você execute um trecho de código repetidamente enquanto uma determinada condição for verdadeira. A sintaxe geral é:
 
 ```c
@@ -564,12 +562,6 @@ return 0;
 }
 ```
 
-
-
-[\[Voltar ao índice\]](#índice)
-
-<br><br>
-
 Neste exemplo, a variável “i” é inicializada com o valor 0, e a condição “i < 10” é verificada antes de cada iteração. O código dentro do loop imprime o valor de “i” em cada iteração, e o incremento “i++” é executado após cada iteração, e o loop é executado 10 vezes, até que a condição “i < 10” se torne falsa.
 
 ![image](https://github.com/user-attachments/assets/b9fe41d6-50f7-4a45-b615-367d23fff096)
@@ -578,7 +570,7 @@ Neste exemplo, a variável “i” é inicializada com o valor 0, e a condição
 
 <br><br>
 
-do-while
+## do-while
 A instrução “do-while” é uma estrutura de controle de fluxo semelhante à instrução “while”, mas com uma diferença importante: o código dentro do loop é executado pelo menos uma vez, independentemente da condição. A sintaxe geral é:
 
 ```c
